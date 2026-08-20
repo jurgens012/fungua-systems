@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fungua-systems.pages.dev/sitemap.xml
+Sitemap: https://fungua-systems.funguasystems.workers.dev/sitemap.xml

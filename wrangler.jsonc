@@ -1,2 +1,8 @@
-{ "name": "fungua-systems", "compatibility_date": "2026-08-20", "assets": { "directory": ".", "not_found_handling": "404-page" } }
-//Add wrangler config,
+{
+  "name": "fungua-systems",
+  "compatibility_date": "2026-08-20",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "404-page"
+  }
+}

@@ -7,8 +7,8 @@ Fungua Systems is founded by Jurgens Matika, a Nairobi-based computer scientist 
 The studio is pre-revenue and early-stage as of August 2026: no shipped product yet, one founder, first case study in progress.
 
 ## Pages
-- [Home](https://fungua-systems.pages.dev/index.html): mission and entry point to the other four pages.
-- [About](https://fungua-systems.pages.dev/about.html): studio thesis, three capability areas, founder background.
-- [Approach](https://fungua-systems.pages.dev/approach.html): how the studio works — operating principles.
-- [Labs](https://fungua-systems.pages.dev/labs.html): current and upcoming project case studies.
-- [Contact](https://fungua-systems.pages.dev/contact.html): funguasystems@gmail.com
+- [Home](https://fungua-systems.funguasystems.workers.dev/index.html): mission and entry point to the other four pages.
+- [About](https://fungua-systems.funguasystems.workers.dev/about.html): studio thesis, three capability areas, founder background.
+- [Approach](https://fungua-systems.funguasystems.workers.dev/approach.html): how the studio works — operating principles.
+- [Labs](https://fungua-systems.funguasystems.workers.dev/labs.html): current and upcoming project case studies.
+- [Contact](https://fungua-systems.funguasystems.workers.dev/contact.html): funguasystems@gmail.com

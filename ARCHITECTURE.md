@@ -102,4 +102,4 @@ The honest answer: this architecture already scales further than most backend-he
 
 ## 10. Email
 
-Cloudflare Email Routing (`you@yourdomain.com` → forwarded to Gmail, free) requires owning a domain on Cloudflare's DNS — it cannot attach to the free `.pages.dev` subdomain. Deferred until the domain purchase; see the project chat history for the exact setup steps once that happens.
+Cloudflare Email Routing (`you@yourdomain.com` → forwarded to Gmail, free) requires owning a domain on Cloudflare's DNS — it cannot attach to the free `.workers.dev` subdomain this project currently runs on. Deferred until the domain purchase; see the project chat history for the exact setup steps once that happens.

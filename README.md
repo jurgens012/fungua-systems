@@ -2,7 +2,7 @@
 
 **Technology solutions, open to everyone.**
 
-A Nairobi-built technology studio's marketing site — static, fast, and open source. Live at [fungua-systems.pages.dev](https://fungua-systems.pages.dev/) (custom domain pending).
+A Nairobi-built technology studio's marketing site — static, fast, and open source. Live at [fungua-systems.funguasystems.workers.dev](https://fungua-systems.funguasystems.workers.dev/) (custom domain pending).
 
 ## Stack
 

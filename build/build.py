@@ -32,14 +32,14 @@ HEAD_TEMPLATE = '''<!DOCTYPE html>
 <link rel="apple-touch-icon" href="/assets/img/favicon.png">
 <meta name="theme-color" content="#10151B">
 <meta name="color-scheme" content="dark">
-<link rel="canonical" href="https://fungua-systems.pages.dev/{path}">
+<link rel="canonical" href="https://fungua-systems.funguasystems.workers.dev/{path}">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Fungua Systems">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{description}">
 <meta property="og:image" content="/assets/img/og-image.png">
-<meta property="og:url" content="https://fungua-systems.pages.dev/{path}">
+<meta property="og:url" content="https://fungua-systems.funguasystems.workers.dev/{path}">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{title}">
@@ -51,7 +51,7 @@ HEAD_TEMPLATE = '''<!DOCTYPE html>
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Fungua Systems",
-  "url": "https://fungua-systems.pages.dev/",
+  "url": "https://fungua-systems.funguasystems.workers.dev/",
   "slogan": "Technology solutions, open to everyone.",
   "founder": {{ "@type": "Person", "name": "Jurgens Matika" }},
   "email": "funguasystems@gmail.com"
@@ -334,3 +334,29 @@ write_page("labs.html", "Labs \u2014 Fungua Systems",
 write_page("contact.html", "Contact \u2014 Fungua Systems",
            "Get in touch with Fungua Systems.",
            "contact.html", contact_body)
+
+# ==========================================================================
+# 404
+# ==========================================================================
+notfound_body = '''
+<div class="page-header">
+  <div class="wrap">
+    <span class="eyebrow">404</span>
+    <h1>This page hasn't been opened yet.</h1>
+  </div>
+</div>
+<main id="main">
+<section>
+  <div class="wrap">
+    <p class="lede">Whatever you were looking for isn't here \u2014 maybe it moved, maybe it doesn't exist yet. Start again from the front door.</p>
+    <div class="hero-actions" style="margin-top:32px;">
+      <a class="btn btn-primary" href="/index.html">Back to home</a>
+    </div>
+  </div>
+</section>
+</main>
+'''
+
+write_page("404.html", "Page not found \u2014 Fungua Systems",
+           "This page could not be found.",
+           None, notfound_body)
