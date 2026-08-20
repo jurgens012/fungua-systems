@@ -1,0 +1,14 @@
+# Fungua Systems
+
+> Technology solutions, open to everyone. A Nairobi-built technology studio working across data, infrastructure, and software to solve real problems.
+
+Fungua Systems is founded by Jurgens Matika, a Nairobi-based computer scientist with a background in business intelligence, cloud infrastructure, and software development. The studio takes on specific, real problems rather than operating in one fixed product category — current focus areas are data & intelligence, infrastructure & cloud, and software & automation.
+
+The studio is pre-revenue and early-stage as of August 2026: no shipped product yet, one founder, first case study in progress.
+
+## Pages
+- [Home](https://fungua-systems.pages.dev/index.html): mission and entry point to the other four pages.
+- [About](https://fungua-systems.pages.dev/about.html): studio thesis, three capability areas, founder background.
+- [Approach](https://fungua-systems.pages.dev/approach.html): how the studio works — operating principles.
+- [Labs](https://fungua-systems.pages.dev/labs.html): current and upcoming project case studies.
+- [Contact](https://fungua-systems.pages.dev/contact.html): funguasystems@gmail.com
